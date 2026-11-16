@@ -1,0 +1,13 @@
+test_configuracoes_invalidas (__main__.Testes.test_configuracoes_invalidas) ... ok
+test_consumidor_mais_lento (__main__.Testes.test_consumidor_mais_lento) ... ok
+test_encerramento_repetido (__main__.Testes.test_encerramento_repetido) ... ok
+test_fifo_e_limites_no_log (__main__.Testes.test_fifo_e_limites_no_log) ... ok
+test_mais_threads_que_itens (__main__.Testes.test_mais_threads_que_itens) ... ok
+test_produtor_mais_lento (__main__.Testes.test_produtor_mais_lento) ... ok
+test_seis_cenarios (__main__.Testes.test_seis_cenarios) ... ok
+test_zero_itens_encerra (__main__.Testes.test_zero_itens_encerra) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 3.711s
+
+OK

@@ -1,0 +1,11 @@
+Data: 2026-11-16T16:34:43.910768-04:00
+Sistema: Linux-7.0.0-43-generic-x86_64-with-glibc2.43
+Máquina: x86_64
+Processador: não informado por platform.processor
+Java:
+openjdk version "25.0.5.0.3" 2026-10-24
+OpenJDK Runtime Environment (build 25.0.5.0.3+1-1-26.04.1-Ubuntu)
+OpenJDK 64-Bit Server VM (build 25.0.5.0.3+1-1-26.04.1-Ubuntu, mixed mode, sharing)
+
+SHA-256 de src/ProdutorConsumidor.java: 11fb48abce52e1faea8910845e821e0c1e92f719f14b537cfec54456f4f843a7
+CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
