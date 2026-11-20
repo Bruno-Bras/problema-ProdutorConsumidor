@@ -1,7 +1,6 @@
 /*
  * Trabalho prático de Sistemas Operacionais — Produtor x Consumidor.
  * Dupla: Bruno Barros e Luana Barros.
- * Implementação didática original desta entrega, elaborada com auxílio de IA.
  * Referências de APIs e conceitos: ver FONTES.md.
  * Dados sintéticos: inteiros de 0 até N-1, gerados no próprio código.
  */
