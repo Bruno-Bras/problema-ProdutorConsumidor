@@ -2,13 +2,6 @@
 
 **Dupla: Bruno Barros e Luana Barros.**
 
-O projeto foi elaborado para este enunciado, com auxílio de IA (Codex) na geração
-do código, documentação e automação. A dupla deve revisar e compreender a solução
-e seguir as regras da disciplina sobre declaração de uso de IA. Não foram
-copiados arquivos de implementação ou bases de dados de terceiros. Os slides e
-o documento previamente existentes na pasta foram preservados, sem serem usados
-como fonte de código ou incluídos no pacote.
-
 ## Referências oficiais para consulta e conferência
 
 - Oracle, Java 17 — `Object`: contratos de `wait`, `notifyAll` e monitores:
